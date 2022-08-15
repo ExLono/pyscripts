@@ -1,5 +1,8 @@
 #! /usr/bin/env python3
 
+# Перегонщик файлов csv в посто JSON файл
+# Можно добавить логики под задачу
+
 import csv
 import json
 
