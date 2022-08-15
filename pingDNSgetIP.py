@@ -1,5 +1,7 @@
 #! /usr/bin/env python3
 
+# Стояла задача найти ip адресса по dns именам
+
 import json
 import os
 import subprocess
